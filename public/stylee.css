@@ -1,0 +1,216 @@
+.paragraph {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+header {
+  display: grid;
+  text-align: center;
+  background-color: rgb(245, 245, 220);
+ 
+}
+
+#art-welcome {
+  margin-bottom: 60px;
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-align: center;
+  box-sizing: border-box;
+  padding: 4%;
+  width: 90%;
+  margin-left: 5%;
+
+}
+#art-updates{
+  text-decoration: none;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  height: 1256px;
+  padding: 2%;
+  margin-top: 2%;
+  width: 43%;
+  margin-left: 31%;
+  box-sizing: border-box;
+}
+
+#art-story {
+  text-decoration: none;
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  width: 47%;
+  padding: 19px;
+  float: right;
+  margin-right: 15%;
+}
+#art-info {
+  text-decoration: none;
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  width: 44%;
+  padding: 19px;
+  float: right;
+  margin-right: 5%;
+  margin-top: -40.2%;
+  height: 1162px;
+}
+.travel-section {
+  width: 100%;
+
+  border: 3px solid rgba(0, 0, 0, 0.5);
+
+  box-shadow: 0 4px 25px rgba(0, 0, 0, 0.2) inset;
+
+  padding: 52px;
+
+  text-indent: 5%;
+}
+
+#travel-wrapper,#art-story {
+  width: 40%;
+  float: right;
+  margin-top: 1.5%;
+  margin-right: 55%;
+  height: 1208px;
+  box-sizing: border-box;
+}
+
+#nav-menu{
+  font-size: 28px;
+  text-align: center;
+}
+
+h2{
+  font-size: 42px;
+  color: rgb(190, 190, 143);
+  text-decoration: underline;
+}
+h1{
+  font-size: 30px;
+  color: rgb(0, 0, 0);
+  font-family: AppleGothic;
+}
+
+h3{
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+textarea{
+  width: 50%;
+  height: 250px;
+  padding: 10px;
+  font-size: 25px;
+  border-radius: 21px;
+  box-sizing: border-box;
+  border: 3.5px solid rgb(0, 0, 0);
+  color: rgb(0, 0, 0);
+}
+
+details{
+  font-size: 23px;
+}
+#footer-home{
+  text-decoration: none;
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+  padding: 1%;
+  width: 100%;
+  background-color: rgb(245, 245, 220);
+  margin-top: 43%;
+  
+}
+#footer-book{
+  text-decoration: none;
+  font-size: 23px;
+  color: rgb(0, 0, 0);
+  padding: 1%;
+  width: 100%;
+  background-color: rgb(245, 245, 220);
+ 
+  
+}
+
+.destination-section{
+
+  text-decoration: none;
+  font-size: 28px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-align: initial;
+  box-sizing: border-box;
+  width: 39%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 50px;
+  box-shadow: 0 4px 54px rgba(198, 194, 194, 0.701) inset;
+  margin-left: 9%;
+  margin-top:4%;
+}
+#art-destinationone{
+  
+  box-sizing: border-box;
+  width: 35%;
+  border: 3px solid grey
+  padding: 50px;
+  margin-left:1%;
+}
+#art-destinationtwo{
+  
+  box-sizing: border-box;
+  width: 50%;
+  border: 3px solid rgb(93, 89, 89);
+  padding: 27px;
+  margin-left: 44%;
+  margin-top: -30.5%;
+}
+
+#art-Greece{
+  
+  box-sizing: border-box;
+  width: 30%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 33px;
+  margin-left: 65%;
+  margin-top: -79%;
+}
+
+#art-Japan{
+
+  box-sizing: border-box;
+  width: 44%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 31px;
+  margin-left: 52%;
+  margin-top: -27%;
+  font-size: 40px;
+  height:824px;
+}
+
+input{
+  background-color:beige;
+  color: rgb(0, 0, 0); 
+  padding: 15px 32px; 
+  text-align: center; 
+  text-decoration: none;
+   display:  inline-block; 
+   font-size: 21px; 
+   font-weight: bold; 
+   margin: 4px 2px; 
+   cursor: pointer;
+}
+#faq-link{
+  font-size: 20px;
+  padding: 81%;
+  
+}
